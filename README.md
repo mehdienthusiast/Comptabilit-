@@ -1,4 +1,4 @@
-V1 Beta d'un Logiciel de comptabilité en Python pour H’délice, qui permet de gérer les entrées et sorties d’argent, suivre les ventes, et analyser les performances financières. Voici un résumé de son fonctionnement :
+V1 Beta d'un Logiciel de comptabilité en Python pour H’dé, qui permet de gérer les entrées et sorties d’argent, suivre les ventes, et analyser les performances financières. Voici un résumé de son fonctionnement :
 
 Fonctionnalités principales :
 Gestion des ventes et des recettes
